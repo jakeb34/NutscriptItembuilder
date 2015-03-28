@@ -2,6 +2,8 @@
 A Simple Item Builder for Nutscript
 
 -------------------------------------------------------------
+<<INSTRUCTIONS>>
+
 How to use:
 
 Open the folder and go to datafiles and run builder.exe
@@ -10,7 +12,7 @@ it will open a GUI window which gives you the ability to create the items
 
 [IT WILL PUT ALL CREATED FILES IN YOUR DOCUMENTS/NSITEMBUILDER]
 
-
+<<INSTRUCTIONS>>
 
 -------------------------------------------------------------
 --Shoop's Nutscript Item builder--
