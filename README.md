@@ -10,7 +10,7 @@ A Simple Item Builder for Nutscript
 
 <b> it will open a GUI window which gives you the ability to create the items
 
-<underline> Make sure you press the 'Set' Button above the text field to enter the data.
+<h6> Make sure you press the 'Set' Button above the text field to enter the data.
 
 <b> [IT WILL PUT ALL CREATED FILES IN YOUR DOCUMENTS/NSITEMBUILDER]
 
