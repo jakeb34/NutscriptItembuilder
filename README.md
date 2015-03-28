@@ -2,7 +2,7 @@
 A Simple Item Builder for Nutscript
 
 -------------------------------------------------------------
-<<INSTRUCTIONS>>
+[b] INSTRUCTIONS
 
 How to use:
 
@@ -12,7 +12,7 @@ it will open a GUI window which gives you the ability to create the items
 
 [IT WILL PUT ALL CREATED FILES IN YOUR DOCUMENTS/NSITEMBUILDER]
 
-<<INSTRUCTIONS>>
+INSTRUCTIONS [/b]
 
 -------------------------------------------------------------
 --Shoop's Nutscript Item builder--
